@@ -1,0 +1,350 @@
+{
+  "logo": {
+    "ar": "غيــــــد",
+    "en": "Gheeed"
+  },
+  "Login": {
+    "ar": "تسجيل الدخول",
+    "en": "Login"
+  },
+  "newest": {
+    "ar": "جديدنا",
+    "en": "Latest"
+  },
+  "more": {
+    "ar": "المزيد",
+    "en": "more"
+  },
+  "shopNow": {
+    "ar": "تسوق الآن",
+    "en": "SHOP NOW"
+  },
+  "details": {
+    "ar": "التفاصيل",
+    "en": "Details"
+  },
+  "description": {
+    "ar": "الوصف",
+    "en": "Description"
+  },
+  "sizes": {
+    "ar": "اختر المقاس",
+    "en": "Sizes"
+  },
+  "colors": {
+    "ar": "اختر اللون",
+    "en": "Colors"
+  },
+  "addToCart": {
+    "ar": "اضف الى السلة",
+    "en": "Add To Cart"
+  },
+  "notifyMeAvailable": {
+    "ar": "أعلمني عند التوفر",
+    "en": "Notify Me When Available"
+  },
+  "categories": {
+    "ar": "الأقسام",
+    "en": "Categories"
+  },
+  "cart": {
+    "ar": "السلة",
+    "en": "Cart"
+  },
+  "shoppingCart": {
+    "ar": "سلة المشتريات",
+    "en": "Shopping Cart"
+  },
+  "totalPrice": {
+    "ar": "السعر الكلي",
+    "en": "Total Price"
+  },
+  "buy": {
+    "ar": "الشراء",
+    "en": "Buy"
+  },
+  "address": {
+    "ar": "العنوان",
+    "en": "Address"
+  },
+  "price": {
+    "ar": "السعر",
+    "en": "Price"
+  },
+  "discount": {
+    "ar": "الخصم",
+    "en": "Discount"
+  },
+  "shipping": {
+    "ar": "الشحن",
+    "en": "Shipping"
+  },
+  "total": {
+    "ar": "المجمل",
+    "en": "Total"
+  },
+  "favorites": {
+    "ar": "المفضلة",
+    "en": "Favorites"
+  },
+  "account": {
+    "ar": "حسابي",
+    "en": "Account"
+  },
+  "myAccount": {
+    "ar": "حسابي",
+    "en": "My Account"
+  },
+  "login": {
+    "ar": "تسجيل دخول",
+    "en": "Login"
+  },
+  "orders": {
+    "ar": "طلباتي",
+    "en": "Orders"
+  },
+  "langsAndRegion": {
+    "ar": "الدول واللغة",
+    "en": "Language & Region"
+  },
+  "customersService": {
+    "ar": "خدمة العملاء",
+    "en": "Customers Service"
+  },
+  "aboutGheed": {
+    "ar": "عن غيد",
+    "en": "About Gheed"
+  },
+  "close": {
+    "ar": "إغلاق",
+    "en": "Close"
+  },
+  "welcomeLogin": {
+    "ar": "أهلاً بك! قم بتسجيل الدخول",
+    "en": "Welcome! Sign In"
+  },
+  "email": {
+    "ar": "البريد الالكتروني",
+    "en": "Email"
+  },
+  "loginByMobile": {
+    "ar": "التسجيل برقم جوال",
+    "en": "Login By Mobile"
+  },
+  "loginByEmail": {
+    "ar": "التسجيل بالايميل",
+    "en": "Login By Email"
+  },
+  "createAccount": {
+    "ar": "أنشئ حساب جديد",
+    "en": "Create Account"
+  },
+  "welcomeCreateAccount": {
+    "ar": "أهلاً بك! قم بإنشاء حساب جديد",
+    "en": "Welcome! Create an Account"
+  },
+  "firstName": {
+    "ar": "الإسم الأول",
+    "en": "First Name"
+  },
+  "lastName": {
+    "ar": "اسم العائلة",
+    "en": "Last Name"
+  },
+  "password": {
+    "ar": "كلمة المرور",
+    "en": "Password"
+  },
+  "register": {
+    "ar": "التسجيل",
+    "en": "Register"
+  },
+  "ordersList": {
+    "ar": "قائمة الطلبات",
+    "en": "Orders List"
+  },
+  "orderDetails": {
+    "ar": "تفاصيل الطلب",
+    "en": "Order Details"
+  },
+  "orderDate": {
+    "ar": "تاريخ الطلب",
+    "en": "Order Date"
+  },
+  "orderNumber": {
+    "ar": "رقم الطلب",
+    "en": "Order Number"
+  },
+  "delivered": {
+    "ar": "تم التوصيل",
+    "en": "Delivered"
+  },
+  "shipped": {
+    "ar": "تم الشحن",
+    "en": "Shipped"
+  },
+  "preparing": {
+    "ar": "جاري التحضير",
+    "en": "Preparing"
+  },
+  "requested": {
+    "ar": "تم الطلب",
+    "en": "Requested"
+  },
+  "pending": {
+    "ar": "معلق",
+    "en": "Pending"
+  },
+  "deliveryTime": {
+    "ar": "وقت التوصيل",
+    "en": "Delivery Time"
+  },
+  "paymentMethod": {
+    "ar": "طريقة الدفع",
+    "en": "Payment Method"
+  },
+  "commission": {
+    "ar": "عمولة الدفع عند الاستلام",
+    "en": "Commission"
+  },
+  "totalIncludingTax": {
+    "ar": "الاجمالي النهائي شامل الضريبة",
+    "en": "Total Including Tax"
+  },
+  "settings": {
+    "ar": "الإعدادات",
+    "en": "Settings"
+  },
+  "chooseLanguage": {
+    "ar": "اختر اللغة",
+    "en": "Choose Language"
+  },
+  "country": {
+    "ar": "الدولة",
+    "en": "Country"
+  },
+  "soonElsewhere": {
+    "ar": "قريباً في أماكن أخرى",
+    "en": "Soon elsewhere"
+  },
+  "saudiArabia": {
+    "ar": "المملكة العربية السعودية",
+    "en": "Saudi Arabia"
+  },
+  "helpAndSupport": {
+    "ar": "مساعدة ودعم",
+    "en": "Help and Support"
+  },
+  "callUs": {
+    "ar": "اتصل بنا",
+    "en": "Call Us"
+  },
+  "emailUs": {
+    "ar": "راسلنا",
+    "en": "Email Us"
+  },
+  "helpCenter": {
+    "ar": "مركز المساعدة",
+    "en": "Help Center"
+  },
+  "termsAndConditions": {
+    "ar": "الشروط والأحكام",
+    "en": "Terms and Conditions"
+  },
+  "refundAndReturn": {
+    "ar": "سياسة الاسترداد والارجاع",
+    "en": "Refund and Return Policy"
+  },
+  "privacyPolicy": {
+    "ar": "سياسة الخصوصية",
+    "en": "Privacy Policy"
+  },
+  "instagram": {
+    "ar": "إنستجرام",
+    "en": "Instagram"
+  },
+  "twitter": {
+    "ar": "تويتر",
+    "en": "Twitter"
+  },
+  "home": {
+    "ar": "الرئيسية",
+    "en": "Home"
+  },
+  "logout": {
+    "ar": "تسجيل الخروج",
+    "en": "Logout"
+  },
+  "addNewAddress": {
+    "ar": "أضف عنوان جديد",
+    "en": "Add a New Address"
+  },
+  "save": {
+    "ar": "حفظ",
+    "en": "Save"
+  },
+  "cancle": {
+    "ar": "إلغاء",
+    "en": "Cancle"
+  },
+  "payByCreditCart": {
+    "ar": "الدفع بالبطاقة الائتمانية",
+    "en": "Pay By Credit Cart"
+  },
+  "thisOfferIncludesExtraDiscounts": {
+    "ar": "رسوم هذه الخدمة خصم اضافي يشمل المنتجات المخفضة",
+    "en": "This Offer includes Extra Discounts"
+  },
+  "paymentUponReceipt": {
+    "ar": "الدفع عند الاستلام",
+    "en": "Payment Upon Receipt"
+  },
+  "additionalFeesWhenChoosingThisService": {
+    "ar": "رسوم إضافية عند اختيار هذه الخدمة",
+    "en": "Additional fees when choosing this service"
+  },
+  "paymentTaxUponReceipt": {
+    "ar": "ضريبة الدفع عند الاستلام",
+    "en": "Payment Tax Upon Receipt"
+  },
+  "pay": {
+    "ar": "ادفع",
+    "en": "Pay"
+  },
+  "congrats": {
+    "ar": "!تهانينا",
+    "en": "Congratulations!"
+  },
+  "purchaseSuccessfull": {
+    "ar": "لقد تمت عملية الشراء بنجاح ",
+    "en": "Your purchase has been completed successfully"
+  },
+  "gheedWishes": {
+    "ar": "غــيد تتمنى لك تسوقاً ممتعاً",
+    "en": "Gide wishes you a pleasant shopping experience"
+  },
+  "continueShopping": {
+    "ar": "تابع التسوق",
+    "en": "Continue Shopping"
+  },
+  "addYourAddress": {
+    "ar": "قم بإضافة عنوانك",
+    "en": "Add Your Address"
+  },
+  "findAstreet": {
+    "ar": "ابحث عن شارع، حي، مدينة....",
+    "en": "Find a street, neighborhood, city ...."
+  },
+  "determineAddres": {
+    "ar": "تحديد العنوان",
+    "en": "Determine the Address"
+  },
+  "nearbyPlaces": {
+    "ar": "أقرب معلم",
+    "en": "Nearby Places"
+  },
+  "noOrders": {
+    "ar": "!ليس لديك طلبات بعد",
+    "en": "No Orders Yet!"
+  }
+}
